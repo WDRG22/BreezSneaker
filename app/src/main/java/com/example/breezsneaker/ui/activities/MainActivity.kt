@@ -1,4 +1,4 @@
-package com.example.breezsneaker
+package com.example.breezsneaker.ui.activities
 
 import MainScreen
 import android.os.Bundle

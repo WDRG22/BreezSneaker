@@ -21,6 +21,22 @@
           <timeTargetWasSelectedWithDropDown value="2024-01-12T05:16:36.585726500Z" />
         </State>
       </entry>
+      <entry key="ShoeSizeSelectorPreview">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\wdrgi\.android\avd\Television_4K_Portrait_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-12T13:24:13.675512100Z" />
+        </State>
+      </entry>
       <entry key="app">
         <State>
           <targetSelectedWithDropDown>
@@ -29,12 +45,12 @@
               <deviceKey>
                 <Key>
                   <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\wdrgi\.android\avd\13.5_Freeform_API_33.avd" />
+                  <value value="C:\Users\wdrgi\.android\avd\Elo_65_API_33.avd" />
                 </Key>
               </deviceKey>
             </Target>
           </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-01-12T06:52:39.877530300Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-01-12T18:23:14.237626400Z" />
         </State>
       </entry>
     </value>
