@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BreezSneaker</string>
+    <string name="try_now">TRY NOW</string>
+    <string name="powered_by_cyntra_ai">Powered by Cyntra.AI</string>
+    <string name="nike">NIKE</string>
+    <string name="ldv_waffle">LDV WAFFLE</string>
+    <string name="price">$160.00</string>
+    <string name="shoe_description">In collaboration with Japanese high fashion label sacai, designer Chitose Abe fused two iconic shoes for a hybrid, double-themed design. This special edition silhouette combines the LDV and Waffle Racer and features double tongues, shoelaces and swooshes with a co-branded logo on the heel tab.</string>
+    <string name="size_guide">Size Guide</string>
+    <string name="mens_size">Men\'s Size</string>
+</resources>
