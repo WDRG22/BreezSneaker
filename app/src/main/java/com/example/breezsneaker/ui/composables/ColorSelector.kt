@@ -55,7 +55,6 @@ fun ColorSelector(onSelectColor: (Int) -> Unit ) {
     LazyRow(
         state = listState,
         horizontalArrangement = Arrangement.Center,
-        modifier = Modifier.padding(16.dp)
     ) {
         items(sneakerIcons.size) { index ->
             Column(
@@ -69,9 +68,9 @@ fun ColorSelector(onSelectColor: (Int) -> Unit ) {
                 Box(
                     contentAlignment = Alignment.Center,
                     modifier = Modifier
-                        .size(500.dp)
+                        .size(350.dp)
                         .border(
-                            width = if (index == selectedColor) 4.dp else 0.dp,
+                            width = if (index == selectedColor) 8.dp else 0.dp,
                             color = if (index == selectedColor) Color.Black else Color.Transparent,
                         )
                 ) {
